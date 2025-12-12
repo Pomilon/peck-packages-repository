@@ -1,1 +1,16 @@
-{}
+{
+  "package_name_1": {
+    "repo_url": "https://github.com/Organization/package_name_1.git",
+    "versions": {
+      "1.0.0": "git_commit_hash_for_v1.0.0",
+      "1.1.0": "git_commit_hash_for_v1.1.0",
+      "1.1.1": "git_commit_hash_for_v1.1.1"
+    }
+  },
+  "package_name_2": {
+    "repo_url": "https://github.com/User/package_name_2.git",
+    "versions": {
+      "0.5.0": "git_commit_hash_for_v0.5.0"
+    }
+  }
+}
